@@ -1,7 +1,7 @@
 Modulariser son application AngularJS avec Browserify
 ==============
 
-Sources d'un live-coding donné à [Devoxx France 2015](http://cfp.devoxx.fr/2015/talk/PZK-0308/Modulariser_son_application_AngularJS_avec_Browserify)
+Sources d'un live-coding donné au [Breizhcamp 2015](http://cfp.breizhcamp.org/2015/talk/EYM-5983/Modulariser_son_application_AngularJS_avec_Browserify)
 
 ## Pitch
 Et si le système de modules de Node.js, simple et efficace, pouvait améliorer notre quotidien de développeurs front-end ?
@@ -12,5 +12,5 @@ Après une rapide introduction du système de modules de Node.js et de Browserif
 
 ## Etapes
 
-* [Etat initial](https://github.com/antoine-richard/devoxx-browserify-angularjs/tree/before) : une application AngularJS "comme on en croise tous les jours"
-* [Etat final](https://github.com/antoine-richard/devoxx-browserify-angularjs/tree/after) : l'application transformée selon les standards node/iojs (et fonctionnant dans le navigateur grâce à Browserify)
+* [Etat initial](https://github.com/antoine-richard/breizhcamp-browserify-angularjs/tree/before) : une application AngularJS "comme on en croise tous les jours"
+* [Etat final](https://github.com/antoine-richard/breizhcamp-browserify-angularjs/tree/after) : l'application transformée selon les standards node/iojs (et fonctionnant dans le navigateur grâce à Browserify)
